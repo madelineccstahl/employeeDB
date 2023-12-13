@@ -1,0 +1,1 @@
+App that would allow for organization of employees. Salary, deparment, employee id and names are all utilized. Needs further development to incoporate SQL.
